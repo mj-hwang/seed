@@ -1,0 +1,6 @@
+[submodule "robosuite"]
+	path = robosuite
+	url = https://github.com/misoshiruseijin/robosuite
+[submodule "stable-baselines3"]
+	path = stable-baselines3
+	url = https://github.com/mj-hwang/stable-baselines3
